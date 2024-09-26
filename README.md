@@ -10,7 +10,7 @@ Acadêmicos: Gabriel Marafon e Victor Hugo Soligo
 
 - $ `git clone https://github.com/VictorSoligo/queues.git`
 - $ `cd SimulacaoMercado`
-- $ `node app.js`
+- $ `node script.js`
 
 Para alterar a configuração da simulação:
 
